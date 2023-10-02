@@ -36,10 +36,9 @@ console.log(name);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let num1 = 12
-let num2 = 20
+let num1 = 12;
+let num2 = 20;
 console.log(num1 + num2);
-
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
@@ -57,13 +56,12 @@ console.log(x);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-name = "Petrea"
-console.log(name)
-const surname = "Petrea"
-console.log(name)
-/* surname = "Cosmin"       <== attivando questo commento da errore
+name = "Petrea";
+console.log(name);
+const surname = "Petrea";
+console.log(name);
+/* surname = "Cosmin"       <== attivando questo commento dà errore
 console.log(name) */
-
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
@@ -71,7 +69,7 @@ console.log(name) */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-console.log(4 - x)
+console.log(4 - x);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -83,6 +81,6 @@ console.log(4 - x)
 
 let name1 = "john";
 let name2 = "John";
-console.log(name1 === name2)
+console.log(name1 !== name2);
 
-console.log(name1 === name2.toLowerCase())
+console.log(name1.toLowerCase() === name2.toLowerCase());
