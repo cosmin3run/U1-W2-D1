@@ -36,7 +36,9 @@ console.log(name);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-console.log(12 + 20);
+let num1 = 12
+let num2 = 20
+console.log(num1 + num2);
 
 
 /* ESERCIZIO 4
