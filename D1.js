@@ -48,7 +48,7 @@ console.log(num1 + num2);
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 let x = 12;
-console.log (x);
+console.log(x);
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
@@ -58,9 +58,9 @@ console.log (x);
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 name = "Petrea"
-console.log (name)
+console.log(name)
 const surname = "Petrea"
-console.log (name)
+console.log(name)
 /* surname = "Cosmin"       <== attivando questo commento da errore
 console.log(name) */
 
@@ -71,7 +71,7 @@ console.log(name) */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-console.log (4 - x)
+console.log(4 - x)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
